@@ -1,5 +1,7 @@
 package com.cperazzolli.algasensors.temperature.processing;
 
+import com.cperazzolli.algasensors.temperature.processing.common.IdGenerator;
+import com.cperazzolli.algasensors.temperature.processing.common.UUIDv7Utils;
 import org.junit.jupiter.api.Test;
 
 import java.time.OffsetDateTime;

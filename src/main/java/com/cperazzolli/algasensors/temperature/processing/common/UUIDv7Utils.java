@@ -1,9 +1,8 @@
-package com.cperazzolli.algasensors.temperature.processing;
+package com.cperazzolli.algasensors.temperature.processing.common;
 
 import java.time.Instant;
 import java.time.OffsetDateTime;
 import java.time.ZoneId;
-import java.util.TimeZone;
 import java.util.UUID;
 
 public class UUIDv7Utils {
